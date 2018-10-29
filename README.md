@@ -4,7 +4,7 @@ All programs are written in ![Python 3.6](https://img.shields.io/badge/Python-3.
 
 Contributor(s): [Shreyas Daniel](https://github.com/shreydan)
 
-_Please_ **star** if you found this repo helpful. 
+_Please_ **star** if you found this repo usefull. 
 
 _Contribute_ by **forking** this repo.
 
